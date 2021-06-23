@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mars/static/css/main.b8f3d568.chunk.css",
+    "main.js": "/mars/static/js/main.5713cb4f.chunk.js",
+    "main.js.map": "/mars/static/js/main.5713cb4f.chunk.js.map",
+    "runtime-main.js": "/mars/static/js/runtime-main.96125bc7.js",
+    "runtime-main.js.map": "/mars/static/js/runtime-main.96125bc7.js.map",
+    "static/js/2.d6ee2e9a.chunk.js": "/mars/static/js/2.d6ee2e9a.chunk.js",
+    "static/js/2.d6ee2e9a.chunk.js.map": "/mars/static/js/2.d6ee2e9a.chunk.js.map",
+    "index.html": "/mars/index.html",
+    "static/css/main.b8f3d568.chunk.css.map": "/mars/static/css/main.b8f3d568.chunk.css.map",
+    "static/js/2.d6ee2e9a.chunk.js.LICENSE.txt": "/mars/static/js/2.d6ee2e9a.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/mars/static/media/background.b848d10f.svg",
+    "static/media/hero.a0f437e5.png": "/mars/static/media/hero.a0f437e5.png",
+    "static/media/rocket.45d4c37e.png": "/mars/static/media/rocket.45d4c37e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96125bc7.js",
+    "static/js/2.d6ee2e9a.chunk.js",
+    "static/css/main.b8f3d568.chunk.css",
+    "static/js/main.5713cb4f.chunk.js"
+  ]
+}
